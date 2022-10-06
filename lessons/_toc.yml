@@ -1,0 +1,16 @@
+# Table of contents
+# Learn more at https://jupyterbook.org/customize/toc.html
+
+format: jb-book
+root: intro
+chapters:
+- file: learningobjectives
+- file: definitions
+- file: lesson1
+- file: lesson2
+- file: lesson3
+- file: lesson4
+- file: lesson5
+- file: lesson6
+- file: references
+- file: contributions
