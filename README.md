@@ -22,7 +22,7 @@ You can create more files to add more sections to the module. Use one file per s
 
 This work is licensed under a
 [Creative Commons Attribution 4.0 International License][cc-by].
-Prepared by Lorena A. Barba (2022) for the AGU TOPS project.
+
 
 [![CC BY 4.0][cc-by-image]][cc-by]
 
